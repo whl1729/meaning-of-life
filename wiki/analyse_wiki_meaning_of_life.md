@@ -121,9 +121,42 @@
 
 > 伍注：这个问题还涉及到很多概念，包括：符号象征、本体论、价值观、目的论、伦理、善恶、自由意志、神的存在性、神的概念、灵魂及来生等。
 
-### 1 Scientific inquiry and perspectives
+### 1 Questions
 
-#### 1.1 Psychological significance and value in life
+> 伍注：这一章提出的问题，其实也是我们每个人都曾经有过的疑惑，非常符合我们的内心需要。
+
+- What is the meaning of life? What's it all about? Who are we?
+
+> 伍注：我们有时会失去对自己的定位，所以会问：我是谁？（人生三大终极问题之一）
+> 这可能也是物理学家探寻宇宙起源、生物学家探寻人类起源、心理学家探寻人类的意识的起源的一部分原因吧。
+
+- Why are we here? What are we here for?
+
+> 伍注：这两个问题是寻找目的感：我为什么活在这个世界？我们活在这个世界是为了追求什么？
+
+- What is the origin of life?
+
+> 伍注：生命的起源是什么？其实也就是问：我从哪里来？（人生三大终极问题之二）
+
+- What is the nature of life? What is the nature of reality?
+
+- What is the purpose of life? What is the purpose of one's life?
+- What is the significance of life?
+
+> 伍注：这两个问题依然是寻找目的和意义。
+
+- What is meaningful and valuable in life?
+- What is the value of life?
+
+> 伍注：人生中什么才是有意义的和有价值的？人生的价值是什么？
+
+- What is the reason to live? What are we living for?
+
+> 伍注：活着的理由是什么？我们为什么而活着？这也是史铁生当年在地坛反复思考的问题。
+
+### 2 Scientific inquiry and perspectives
+
+#### 2.1 Psychological significance and value in life
 
 - Researchers in positive psychology study empirical factors that lead to
   - life satisfaction,
@@ -154,7 +187,7 @@
 
 > 伍注：这是从医学上提供的获得意义感的一个方案，这里可以提出一个问题：为何做这5件事情可以获得意义感？
 
-#### 1.2 Origin and nature of biological life
+#### 2.2 Origin and nature of biological life
 
 - At the end of the 20th century,
   based upon insight gleaned from the gene-centered view of evolution,
@@ -168,11 +201,11 @@
 
 > 伍注：诺贝尔生理学奖得主 James Watson 认为我们的人生别无目的，我们只是进化的产物。
 
-#### 1.3 Origin and ultimate fate of the universe
+#### 2.3 Origin and ultimate fate of the universe
 
-> 伍注：1.2 节讨论的是生命的起源，1.3 节则将进一步放大视野，讨论生命所居住的宇宙的起源。当然，还有宇宙的最终命运。
+> 伍注：2.2 节讨论的是生命的起源，2.3 节则将进一步放大视野，讨论生命所居住的宇宙的起源。当然，还有宇宙的最终命运。
 
-#### 1.4 Scientific questions about the mind
+#### 2.4 Scientific questions about the mind
 
 - The nature and origin of consciousness and the mind itself are also widely debated in science.
 
@@ -181,11 +214,11 @@
 - These subjects are mostly addressed in the fields of cognitive science, neuroscience (e.g. the neuroscience of free will) and philosophy of mind,
   though some evolutionary biologists and theoretical physicists have also made several allusions to the subject.
 
-> 伍注：1.4 节也很有意思。1.2 节讨论的是生命是怎么来的，1.4 节则讨论生命个体的意识和心智是怎么来的。
-> 这是往更小的范围来讨论——由讨论生命到讨论生命的意识。而 1.3 节是往更大的范围来讨论——由讨论生命到讨论生命所居住的宇宙。
-> 毋庸置疑，1.4 节也是很重要的，因为我们想获得意义，很可能就是我们的意识和心智驱使的。
+> 伍注：2.4 节也很有意思。2.2 节讨论的是生命是怎么来的，2.4 节则讨论生命个体的意识和心智是怎么来的。
+> 这是往更小的范围来讨论——由讨论生命到讨论生命的意识。而 2.3 节是往更大的范围来讨论——由讨论生命到讨论生命所居住的宇宙。
+> 毋庸置疑，2.4 节也是很重要的，因为我们想获得意义，很可能就是我们的意识和心智驱使的。
 
-#### 1.5 Nature of meaning in life
+#### 2.5 Nature of meaning in life
 
 - Reker and Wong define personal meaning as the
   "cognizance of order, coherence and purpose in one's existence, the pursuit and attainment of worthwhile goals, and an accompanying sense of fulfillment".
@@ -212,11 +245,11 @@
 
 > 伍注：Wong 认为根据规范伦理学的一些标准，是可以衡量一个人的目标追求或人生是否充满意义的。
 
-### 2 Western philosophical perspectives
+### 3 Western philosophical perspectives
 
-#### 2.1 Ancient Greek philosophy
+#### 3.1 Ancient Greek philosophy
 
-##### 2.1.1 Platonism
+##### 3.1.1 Platonism
 
 - His theory on justice in the soul relates to the idea of happiness relevant to the question of the meaning of life.
 
@@ -227,7 +260,7 @@
 
 > 伍注：柏拉图主义认为人生的意义是获得最高的理型的知识，即善的观念（理型），所有善的和正义的东西都从中获得效用和价值。
 
-##### 2.1.2 Aristotelianism
+##### 3.1.2 Aristotelianism
 
 - A person had to study and practice in order to become "good";
   thus if the person were to become virtuous, he could not simply study what virtue is,
@@ -242,7 +275,7 @@
 
 > 伍注：亚里士多德认为人生的意义是获得最高的善（the Highest Goode）。
 
-##### 2.1.3 Cynicism
+##### 3.1.3 Cynicism
 
 - Antisthenes, a pupil of Socrates, first outlined the themes of Cynicism, stating that the purpose of life is living a life of Virtue which agrees with Nature.
 
@@ -256,7 +289,7 @@
 
 > 伍注：犬儒主义者鄙弃世俗的荣华富贵、功名利禄。
 
-##### 2.1.4 Epicureanism
+##### 3.1.4 Epicureanism
 
 - Epicurus, a pupil of the Platonist Pamphilus of Samos, taught that
   - the greatest good is in seeking modest pleasures,
@@ -265,7 +298,7 @@
 
 > 伍注：伊比鸠鲁主义者认为人生的意义（最大的善）是驱逐恐惧、追求快乐，以达到一种宁静且自由的状态。
 
-##### 2.1.5 Stoicism
+##### 3.1.5 Stoicism
 
 - The meaning of life is "freedom from suffering" through apatheia, that is, being objective and having "clear judgement", not indifference.
 
@@ -277,13 +310,13 @@
 
 > 伍注：斯多葛主义者认为人生的意义是通过理性和自我节制而远离苦难。
 
-#### 2.2 Enlightenment philosophy
+#### 3.2 Enlightenment philosophy
 
 - The meaning of life changed as well, focusing less on humankind's relationship to God and more on the relationship between individuals and their society.
 
 - This era is filled with theories that equate meaningful existence with the social order.
 
-##### 2.2.1 Classical liberalism
+##### 3.2.1 Classical liberalism
 
 - It considers individual liberty to be the most important goal, because only through ensured liberty are the other inherent rights protected.
 
@@ -294,7 +327,7 @@
 
 > 伍注：古典自由主义认为人生的意义是通过劳动、财产和社会契约等获得个体的自由？
 
-##### 2.2.2 Kantianism
+##### 3.2.2 Kantianism
 
 - Kant is known for his deontological theory where there is a single moral obligation, the "Categorical Imperative", derived from the concept of duty.
 
@@ -303,9 +336,9 @@
 
 > 伍注：我暂时不知道康德对「人生的意义」的看法。
 
-#### 2.3 19th-century philosophy
+#### 3.3 19th-century philosophy
 
-##### 2.3.1 Utilitarianism
+##### 3.3.1 Utilitarianism
 
 - Jeremy Bentham found that "nature has placed mankind under the governance of two sovereign masters, pain and pleasure";
   - then, from that moral insight, he derived the Rule of Utility: "that the good is whatever brings the greatest happiness to the greatest number of people".
@@ -313,15 +346,15 @@
 
 > 伍注：功利主义者认为人生的意义是获得最大化的快乐。
 
-##### 2.3.2 Nihilism
+##### 3.3.2 Nihilism
 
 - Nihilism suggests that life is without objective meaning.
 
 > 伍注：虚无主义者认为人生没有客观的意义。
 
-#### 2.4 20th-century philosophy
+#### 3.4 20th-century philosophy
 
-##### 2.4.1 Pragmatism
+##### 3.4.1 Pragmatism
 
 - Pragmatic philosophers suggest that the practical, useful understanding of life is more important than searching for an impractical abstract truth about life.
 
@@ -335,7 +368,7 @@
 
 > 伍注：实用主义者认为人生的意义只有通过实践才能发现。
 
-##### 2.4.2 Theism
+##### 3.4.2 Theism
 
 - Theists believe God created the universe and that God had a purpose in doing so.
 
@@ -343,7 +376,7 @@
 
 > 伍注：有神论者认为人生的意义取决于上帝创造人类的目的。
 
-##### 2.4.3 Existentialism
+##### 3.4.3 Existentialism
 
 - According to existentialism, each person creates the essence (meaning) of their life; life is not determined by a supernatural god or an earthly authority, one is free.
 
@@ -351,7 +384,7 @@
 
 > 伍注：存在主义者认为人生的意义是由每个人自己创建的。
 
-##### 2.4.4 Absurdism
+##### 3.4.4 Absurdism
 
 - In philosophy, "the Absurd" refers to the conflict between the human tendency to seek inherent value and meaning in life, and the human inability to find these with any certainty.
 
@@ -370,7 +403,7 @@
 
 > 伍注：三种面对「荒谬」的方法：自杀、宗教信仰、接受荒谬。真有意思。
 
-##### 2.4.5 Secular humanism
+##### 3.4.5 Secular humanism
 
 - People determine human purpose without supernatural influence;
   it is the human personality (general sense) that is the purpose of a human being's life.
@@ -385,7 +418,7 @@
 
 > 伍注：现实人文主义者人文认为人生的意义是追求自我实现、推动全人类更好地发展。
 
-##### 2.4.6 Logical positivism
+##### 3.4.6 Logical positivism
 
 - Ludwig Wittgenstein and the logical positivists said: "Expressed in language, the question is meaningless", because it will becomes recursive.
 
@@ -397,9 +430,9 @@
 
 > 伍注：逻辑实证主义者认为单就人生的某个部分而言，是可以有明确的意义的；但人生作为一个整体，是不能确定意义的。
 
-### 3 East Asian philosophical perspectives
+### 4 East Asian philosophical perspectives
 
-#### 3.1 Mohism
+#### 4.1 Mohism
 
 - The Mohist philosophers believed that the purpose of life was universal, impartial love.
 
@@ -407,11 +440,11 @@
 
 > 伍注：墨子认为人生的意义是「兼爱」——无差别地去爱全人类。
 
-#### 3.2 Confucianism
+#### 4.2 Confucianism
 
 > 伍注：本文档对孔子学说的解释感觉不得要领。
 
-#### 3.3 Legalism
+#### 4.3 Legalism
 
 - The Legalists believed that finding the purpose of life was a meaningless effort.
 
