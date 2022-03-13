@@ -69,7 +69,7 @@
 - value
 - purpose
 
-- Eudemonia
+- Eudemonia or Eudaemonia
   - A Greek word literally translating to the state or condition of 'good spirit',
   - and which is commonly translated as 'happiness' or 'welfare'.
 - Flow experience
@@ -78,7 +78,24 @@
 - Explanatory gap
 - Normative ethics 规范伦理学
 
-- Mohism
+- Cynicism 犬儒主义
+- Epicureanism 伊比鸠鲁学说
+- Stoicism 斯多葛学派
+- Classical liberalism 古典自由主义
+- Kantianism 康德哲学
+- deontology 义务论
+- categorical imperative 绝对命令
+- Utilitarianism 功利主义
+- Nihilism 虚无主义
+- Pragmatism 实用主义
+- Existentialism 存在主义
+- Absurdism 荒诞主义
+- Secular humanism 世俗人文主义
+- Logical positivism 逻辑实证主义
+
+- Mohism 墨家
+- Confucianism 孔子学说
+- Legalism 法家
 - Legalism
 - Abrahamic religions
 - Iranian religions
@@ -194,6 +211,217 @@
   on whether a person's goal-striving and life as a whole is meaningful according to some objective normative standard.
 
 > 伍注：Wong 认为根据规范伦理学的一些标准，是可以衡量一个人的目标追求或人生是否充满意义的。
+
+### 2 Western philosophical perspectives
+
+#### 2.1 Ancient Greek philosophy
+
+##### 2.1.1 Platonism
+
+- His theory on justice in the soul relates to the idea of happiness relevant to the question of the meaning of life.
+
+> 伍注：柏拉图关于灵魂正义的理论涉及与生命意义相关的幸福观念。
+
+- In Platonism, the meaning of life is in attaining the highest form of knowledge, which is the Idea (Form) of the Good,
+  from which all good and just things derive utility and value.
+
+> 伍注：柏拉图主义认为人生的意义是获得最高的理型的知识，即善的观念（理型），所有善的和正义的东西都从中获得效用和价值。
+
+##### 2.1.2 Aristotelianism
+
+- A person had to study and practice in order to become "good";
+  thus if the person were to become virtuous, he could not simply study what virtue is,
+  he had to be virtuous, via virtuous activities.
+
+- Everything is done with a goal, and that goal is "good".
+
+- The Highest Good
+  - Aristotle's solution is the Highest Good, which is desirable for its own sake. It is its own goal.
+  - The Highest Good is not desirable for the sake of achieving some other good, and all other "goods" desirable for its sake.
+  - This involves achieving eudaemonia, usually translated as "happiness", "well-being", "flourishing", and "excellence".
+
+> 伍注：亚里士多德认为人生的意义是获得最高的善（the Highest Goode）。
+
+##### 2.1.3 Cynicism
+
+- Antisthenes, a pupil of Socrates, first outlined the themes of Cynicism, stating that the purpose of life is living a life of Virtue which agrees with Nature.
+
+> 伍注：犬儒学派创始人 Antisthenes 认为人生的意义是过一种回归自然的生活。
+
+- The Cynical life rejects conventional desires for wealth, power, health, and fame, by being free of the possessions acquired in pursuing the conventional.
+
+- As reasoning creatures, people could achieve happiness via rigorous training, by living in a way natural to human beings.
+
+- The world equally belongs to everyone, so suffering is caused by false judgments of what is valuable and what is worthless per the customs and conventions of society.
+
+> 伍注：犬儒主义者鄙弃世俗的荣华富贵、功名利禄。
+
+##### 2.1.4 Epicureanism
+
+- Epicurus, a pupil of the Platonist Pamphilus of Samos, taught that
+  - the greatest good is in seeking modest pleasures,
+  - to attain tranquility and freedom from fear (ataraxia) via knowledge, friendship, and virtuous, temperate living;
+  - bodily pain (aponia) is absent through one's knowledge of the workings of the world and of the limits of one's desires.
+
+> 伍注：伊比鸠鲁主义者认为人生的意义（最大的善）是驱逐恐惧、追求快乐，以达到一种宁静且自由的状态。
+
+##### 2.1.5 Stoicism
+
+- The meaning of life is "freedom from suffering" through apatheia, that is, being objective and having "clear judgement", not indifference.
+
+- Stoicism's prime directives are virtue, reason, and natural law, abided to develop personal self-control and mental fortitude as means of overcoming destructive emotions. 
+
+- The Stoic ethical foundation is that "good lies in the state of the soul", itself, exemplified in wisdom and self-control,
+  thus improving one's spiritual well-being: "Virtue consists in a will which is in agreement with Nature."
+  The principle applies to one's personal relations thus: "to be free from anger, envy, and jealousy".
+
+> 伍注：斯多葛主义者认为人生的意义是通过理性和自我节制而远离苦难。
+
+#### 2.2 Enlightenment philosophy
+
+- The meaning of life changed as well, focusing less on humankind's relationship to God and more on the relationship between individuals and their society.
+
+- This era is filled with theories that equate meaningful existence with the social order.
+
+##### 2.2.1 Classical liberalism
+
+- It considers individual liberty to be the most important goal, because only through ensured liberty are the other inherent rights protected.
+
+- Early thinkers such as John Locke, Jean-Jacques Rousseau and Adam Smith saw humankind
+  - beginning in the state of nature,
+  - then finding meaning for existence through labor and property,
+  - and using social contracts to create an environment that supports those efforts.
+
+> 伍注：古典自由主义认为人生的意义是通过劳动、财产和社会契约等获得个体的自由？
+
+##### 2.2.2 Kantianism
+
+- Kant is known for his deontological theory where there is a single moral obligation, the "Categorical Imperative", derived from the concept of duty.
+
+- Kantians believe all actions are performed in accordance with some underlying maxim or principle,
+  and for actions to be ethical, they must adhere to the categorical imperative.
+
+> 伍注：我暂时不知道康德对「人生的意义」的看法。
+
+#### 2.3 19th-century philosophy
+
+##### 2.3.1 Utilitarianism
+
+- Jeremy Bentham found that "nature has placed mankind under the governance of two sovereign masters, pain and pleasure";
+  - then, from that moral insight, he derived the Rule of Utility: "that the good is whatever brings the greatest happiness to the greatest number of people".
+  - He defined the meaning of life as the "greatest happiness principle".
+
+> 伍注：功利主义者认为人生的意义是获得最大化的快乐。
+
+##### 2.3.2 Nihilism
+
+- Nihilism suggests that life is without objective meaning.
+
+> 伍注：虚无主义者认为人生没有客观的意义。
+
+#### 2.4 20th-century philosophy
+
+##### 2.4.1 Pragmatism
+
+- Pragmatic philosophers suggest that the practical, useful understanding of life is more important than searching for an impractical abstract truth about life.
+
+> 伍注：实用主义者认为要以务实的、有用的方式去理解人生，而不是追求不切实际的、抽象的人生意义。
+
+- William James argued that truth could be made, but not sought.
+
+> 伍注：James 认为人生的意义只能被创建，而无法被找寻。
+
+- To a pragmatist, the meaning of life is discoverable only via experience.
+
+> 伍注：实用主义者认为人生的意义只有通过实践才能发现。
+
+##### 2.4.2 Theism
+
+- Theists believe God created the universe and that God had a purpose in doing so.
+
+- Theists also hold the view that humans find their meaning and purpose for life in God's purpose in creating.
+
+> 伍注：有神论者认为人生的意义取决于上帝创造人类的目的。
+
+##### 2.4.3 Existentialism
+
+- According to existentialism, each person creates the essence (meaning) of their life; life is not determined by a supernatural god or an earthly authority, one is free.
+
+- According to Jean-Paul Sartre, existence precedes essence; the (essence) of one's life arises only after one comes to existence.
+
+> 伍注：存在主义者认为人生的意义是由每个人自己创建的。
+
+##### 2.4.4 Absurdism
+
+- In philosophy, "the Absurd" refers to the conflict between the human tendency to seek inherent value and meaning in life, and the human inability to find these with any certainty.
+
+- The universe and the human mind do not each separately cause the Absurd; rather, the Absurd arises by the contradictory nature of the two existing simultaneously.
+
+> 伍注：人类希望寻找人生的意义，但人类又没有能力找到明确的意义，两者的矛盾导致了「荒谬」。
+
+- In absurdist philosophy, the Absurd arises out of the fundamental disharmony between the individual's search for meaning and the apparent meaninglessness of the universe.
+
+> 伍注：这是另一种讲法：人类希望寻找人生的意义，但宇宙（包括人类）是无意义的，两者的矛盾导致了「荒谬」。
+
+- As beings looking for meaning in a meaningless world, humans have three ways of resolving the dilemma.
+  - Suicide
+  - Religious belief in a transcendent realm or being
+  - Acceptance of the Absurd
+
+> 伍注：三种面对「荒谬」的方法：自杀、宗教信仰、接受荒谬。真有意思。
+
+##### 2.4.5 Secular humanism
+
+- People determine human purpose without supernatural influence;
+  it is the human personality (general sense) that is the purpose of a human being's life.
+
+- Humanism seeks to develop and fulfill:
+  - "Humanism affirms our ability and responsibility to lead ethical lives of personal fulfillment that aspire to the greater good of humanity".
+
+- Humanism aims to promote enlightened self-interest and the common good for all people.
+
+- It is based on the premises that the happiness of the individual person is inextricably linked to the well-being of all humanity,
+  in part because humans are social animals who find meaning in personal relations and because cultural progress benefits everybody living in the culture.
+
+> 伍注：现实人文主义者人文认为人生的意义是追求自我实现、推动全人类更好地发展。
+
+##### 2.4.6 Logical positivism
+
+- Ludwig Wittgenstein and the logical positivists said: "Expressed in language, the question is meaningless", because it will becomes recursive.
+
+> 伍注：逻辑实证主义者认为从语言的角度来看，人生是无意义的。证明：假设人生的意义是X，那X的意义是什么？
+> 我们总能不停追问，这便导致递归。
+
+- The things (people, events) in the life of a person can have meaning (importance) as parts of a whole,
+  but a discrete meaning of (the) life, itself, aside from those things, cannot be discerned.
+
+> 伍注：逻辑实证主义者认为单就人生的某个部分而言，是可以有明确的意义的；但人生作为一个整体，是不能确定意义的。
+
+### 3 East Asian philosophical perspectives
+
+#### 3.1 Mohism
+
+- The Mohist philosophers believed that the purpose of life was universal, impartial love.
+
+- Mohism promoted a philosophy of impartial caring—a person should care equally for all other individuals, regardless of their actual relationship to him or her.
+
+> 伍注：墨子认为人生的意义是「兼爱」——无差别地去爱全人类。
+
+#### 3.2 Confucianism
+
+> 伍注：本文档对孔子学说的解释感觉不得要领。
+
+#### 3.3 Legalism
+
+- The Legalists believed that finding the purpose of life was a meaningless effort.
+
+- To the Legalists, only practical knowledge was valuable, especially as it related to the function and performance of the state.
+
+> 伍注：法家认为追求人生的意义是无意义的行动，追求实用知识才更有价值，尤其是治国方面的知识。
+
+### Religious perspectives
+
+> 伍注：暂时不研究宗教。
 
 ## Q7：作者是怎么论述的？
 
