@@ -91,6 +91,7 @@
 - Existentialism 存在主义
 - Absurdism 荒诞主义
 - Secular humanism 世俗人文主义
+- Humanistic psychotherapy 人本主义心理治疗
 - Logical positivism 逻辑实证主义
 
 - Mohism 墨家
@@ -418,7 +419,7 @@
 
 > 伍注：现实人文主义者人文认为人生的意义是追求自我实现、推动全人类更好地发展。
 
-- Humanism-psychotherapy
+- Humanistic psychotherapy
   - From a humanism-psychotherapeutic point of view, the question of the meaning of life could be reinterpreted as "What is the meaning of my life?"
   - This approach emphasizes that the question is personal—and avoids focusing on cosmic or religious questions about overarching purpose.
   - Viktor Frankl argues for "Dereflection", which translates largely as cease endlessly reflecting on the self; instead, engage in life.
@@ -494,6 +495,41 @@
 ## Q16：其他领域/学科有没有相关的知识？日常生活中有没有类似的现象？
 
 ## Q17: 这个文档对我有哪些用处/帮助/启示？
+
+### 全文总结
+
+- 不同领域、不同地方、不同时期的人都探索过「人生的意义」这个问题，并尝试给出他们的答案。
+
+- 总体而言，对「人生的意义」这个问题的解答，可以分为三大类：科学上的解答、哲学上的解答和宗教上的解答。
+  其中每个大类里面又分为许多学科或流派，观点不一。
+
+- 科学上，心理学、神经科学、医学、物理学、生物学、社会学等学科都给出了不同的解答，并且同一学科里面往往也有不同的解答。
+
+- 心理学
+  - 积极心理学似乎更关注 how 而非 what，也就是说，他们更关心如何获得意义感和满足感（fullfillment），而非解释「人生的意义是什么」。
+    也许在他们看来，当一个人追问「人生的意义是什么」时，意味着这个人缺少意义感和满足感。
+    因此问题的关键是如何帮助这个人获得意义感和满足感，而不是直接告诉他「人生的意义是什么」。
+  - 积极心理学的学者通过对流体验（flow experience）的研究，发现一个获得意义感和满足感的方法：
+    完成有挑战性的任务。
+  - 心理学家 Paul T.P. Wong 提出获得意义感的一个模型：PURE (Purpose, Understanding, Responsibility, Enjoyment)
+    - 目的（Purpose）: 你需要选择一个有价值的目的或有意义的人生目标。
+    - 自我认识（Understanding）：你需要充分认识自己——你是谁、你需要什么、你怎样扮演你自己人生的主角。
+    - 责任（Responsibility）：你需要决定自己想要拥有怎样的人生、自己想追求什么人生目标，并对此负责。
+    - 享受（Enjoyment）：如果你按照上面三步不断锻炼自己，那么你就能获得深刻的意义感和满足感。
+
+- 神经科学
+  - 神经科学的学者则说：我们是从神经递质活动的角度来理解人类的快乐和动机等活动的。
+    如果你相信人生的意义是最大化快乐，我们可以告诉你应该怎么行动。（具体怎么行动没在这个wiki中描述）
+
+- 医学
+  - 人保主义心理治疗学者认为如果一个人不停地追问「人生的意义是什么」，那么他可能需要进行心理治疗。
+    治疗方法其实跟积极心理学提出的一样：全身心投入到生活中。（fully engage in life）
+  - 2014年，英国国民医疗服务体系提出保持心理健康和过有意义的生活的「五部曲」：
+    - 和社区/家人保持联系
+    - 体育锻炼
+    - 终生学习
+    - 给予他人
+    - 关心你所处的社会（Mindfulness of the world around you）
 
 ## Q18: 我如何应用这个文档的知识去解决问题？
 
