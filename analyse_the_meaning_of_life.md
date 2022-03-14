@@ -1,5 +1,7 @@
 # 《The Meaning of Life》分析笔记
 
+原文链接：[The Meaning of Life][1]
+
 ## Q1: 这个文档属于哪一类别的文档？
 
 哲学/伦理学。
@@ -59,3 +61,4 @@
 
 ## Q18: 我如何应用这个文档的知识去解决问题？
 
+  [1]: https://plato.stanford.edu/entries/life-meaning/
