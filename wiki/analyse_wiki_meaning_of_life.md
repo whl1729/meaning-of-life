@@ -418,6 +418,15 @@
 
 > 伍注：现实人文主义者人文认为人生的意义是追求自我实现、推动全人类更好地发展。
 
+- Humanism-psychotherapy
+  - From a humanism-psychotherapeutic point of view, the question of the meaning of life could be reinterpreted as "What is the meaning of my life?"
+  - This approach emphasizes that the question is personal—and avoids focusing on cosmic or religious questions about overarching purpose.
+  - Viktor Frankl argues for "Dereflection", which translates largely as cease endlessly reflecting on the self; instead, engage in life.
+  - On the whole, the therapeutic response is that the question itself—what is the meaning of life?—evaporates when one is fully engaged in life.
+    (The question then morphs into more specific worries such as "What delusions am I under?"; "What is blocking my ability to enjoy things?"; "Why do I neglect loved-ones?".)
+
+> 伍注：人文主义心理疗法学者认为应该通过全身心投入生活来消除对人生的意义的追寻。
+
 ##### 3.4.6 Logical positivism
 
 - Ludwig Wittgenstein and the logical positivists said: "Expressed in language, the question is meaningless", because it will becomes recursive.
