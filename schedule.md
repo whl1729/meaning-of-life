@@ -1,9 +1,21 @@
 # 「人生有何意义」问题研究进度
 
+## 2022-03-27 ~ 2022-03-28
+
+- 读完《The Meaning of Life: A Reader》第15章《Living Without Appeal: An Affirmative Philosophy of Life》
+
+## 2022-03-21 ~ 2022-03-26
+
+- 读完《The Meaning of Life: A Reader》第8章《On the Meaning of Life》，并撰写读书笔记。
+
+## 2022-03-20
+
+- 读完 Leo Tolstoy 的《A Confession》。
+
 ## 2022-03-19
 
 - 撰写《伦理学导论》第13章「结语：生活的意义」读书笔记。
-- 阅读《The Meaning of Life》（E. D. Klemke）第1章和第5章。
+- 阅读《The Meaning of Life: A Reader》（E. D. Klemke）第1章和第5章。
 - 下载11本关于「Meaning of Life」的英文书籍。
 
 > 备注：《The Meaning of Life》是《伦理学导论》第13章的「建议阅读文献」。
