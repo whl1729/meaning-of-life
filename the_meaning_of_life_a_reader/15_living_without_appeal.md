@@ -2,6 +2,8 @@
 
 ## Chapter 15 Living Without Appeal: An Affirmative Philosophy of Life
 
+作者：E. D. Klemke
+
 ### Q1：这一章的内容属于哪一类别？
 
 哲学/伦理学。
