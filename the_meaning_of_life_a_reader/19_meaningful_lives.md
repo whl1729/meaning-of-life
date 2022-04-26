@@ -2,6 +2,8 @@
 
 ## Chapter 19: Meaningful Lives
 
+作者：Christine Vitrano
+
 ### Q1：这一章的内容属于哪一类别？
 
 哲学/伦理学。

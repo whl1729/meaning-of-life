@@ -42,11 +42,11 @@
 
 8. 工作只是一种手段，手段的意义只能从其目的来寻找，因此工作不可能是人生的终极意义。
 
-9. 人生的终极意义只能从那些以自身为目的、而非一种手段的东西中获得。（不好理解）
+9. 人生的终极意义只能从那些以它自身为目的、而非一种手段的东西中获得。（不好理解）
 
-10. 人生的意义体现在那些以自身为目的的活动中。
+10. 人生的意义体现在那些以它自身为目的的活动中。
 
-11. 那些以自身为目的的活动是存在的，我们称之为 play。
+11. 那些以它自身为目的的活动是存在的，我们称之为 play。
 
 12. 人生的意义体现在 play 中。
 
@@ -74,7 +74,7 @@
 
 24. 柏拉图认为生活应该充满戏剧和歌舞，但现实中人们的生活更多是被工作占满。
 
-25. 人们努力追求一天、一小时、甚至哪怕一分钟的真正纯粹的生活。（我概括得不好）
+25. 人们努力追求一天、一小时、甚至哪怕一分钟的不被目的而束缚、真正纯粹的生活。（我概括得不好）
 
 26. 人生不能只有 work，还需要有 play。不能只有 toil，还需要有 joy。
 
@@ -125,12 +125,14 @@
 >   我们应该专注于自己的目标，确定这目标是我们真正想要的，确定这个梦想蓝图出自自己笔下，
 >   因为得不到自己想要的已经够糟糕了，更糟糕的是，在人生旅程的终点，发觉你所追求的，从来就不是你真正想要的。」
 
-- Once the goal is reached, however, after the first flush of triumph has passed away, there follows inevitably a mood of desolation.
+- Man sets himself goals, and while he is heading towards them he is buoyed up by hope, indeed, but gnawed at the same time by the pain of unsatisfied desire.
+  Once the goal is reached, however, after the first flush of triumph has passed away, there follows inevitably a mood of desolation.
   A void remains, which can seemingly find an end only through the painful emergence of new longings, the setting of new goals.
   So the game begins anew, and existence seems doomed to be a restless swinging to and fro between pain and boredom, which ends at last in the nothingness of death.
   That is the celebrated line of thought which Schopenhauer made the basis of his pessimistic view of life. 
 
 > 伍注：叔本华认为，人生就是不断地追求目标，我们在痛苦与无聊的反复徘徊中走向死亡。
+> 为什么是痛苦与无聊呢？当我们未达到目标时，我们遭受「求不得」的痛苦；当我们达到目标后，我们又感到无聊。
 > 我几周前也有过类似的感受：当时我赢得了跟前室友的单词打赌，收获了胜利的喜悦，但很快也收获了精神的空虚。
 
 - In truth, we shall never find an ultimate meaning in existence, if we view it only under the aspect of purpose.
@@ -163,7 +165,7 @@
   we have then found ends-in-themselves which are more than mere end-points of acting and resting-points of existence,
   and it is these alone that can take over the role of a true content to life.
 
-> 伍注：人生的意义体现在那些以自身为目的的活动中。这个观点值得思考。
+> 伍注：人生的意义体现在那些以它自身为目的的活动中。这个观点值得思考。
 
 - We must call them play, since that is the name for free, purposeless action, that is, action which in fact carries its purpose within itself.
 
@@ -226,7 +228,7 @@
 - The end, then, would never justify the means, he might then exalt into his highest rule of action the principle:
   "What is not worth doing for its own sake, don’t do for anything else’s sake!"
 
-> 伍注：行动的最高原则？不理解。
+> 伍注：行动的最高原则：所有不是因其本身而值得去做的事情，也不会因任何其他目的而值得去做！（翻译得不好）
 
 - All life would then be truly meaningful, down to its ultimate ramifications;
   to live would mean: to celebrate the festival of existence.
@@ -329,9 +331,51 @@
 
 ### Q7：作者是怎么论述的？
 
+作者首先提出「人生有什么意义」的问题，
+然后引用叔本华和尼采的观点：叔本华认为人生是在痛苦与无聊中不断徘徊，尼采认为被目的支配的人生没有意义。
+这时作者提出第一个观点：从目的的角度永远找不到人生的终极意义。
+
+作者接下来研究了工作这项活动，并将工作定性为一种手段而不是目的，因此工作并不能体现人生的意义。
+进而作者提出第二个观点：人生的意义体现在那些以它自身为目的的活动中，这种活动便是「玩耍」。
+
+这个观点独树一帜，与现实似乎有点格格不入，难免令人产生疑问：
+
+问：大部分人都被维持生计压得喘不过气，每日辛勤工作，哪还有时间玩耍？
+答：哲学意义上的「玩耍」与经济学意义上的「工作」并不必然矛盾，两者可以统一——即「工作」同时也可以是「玩耍」。
+
+问：如果大家整天都「玩耍」，谁来生产、创造、建设社会？
+答：「玩耍」可以是有创造力的，「玩耍」并不是什么也不创造。哲学上的「玩耍」可以带来经济上的「价值」。
+
+问：到哪里找有创造力的「玩耍」活动？
+答：艺术创作、科学探索等都是有创造力的「玩耍」活动。
+
+问：生活中总有些繁琐、枯燥或辛苦的活动，这些活动怎么看都不是有创造力的「玩耍」活动吧，那怎么处理它们？
+答：这些活动也可能转化为有创造力的「玩耍」活动。这个转化过程需要的是：创造的快乐、全力的付出、专注的投入。
+
+问：如果我们只追求「玩耍」，不问目的，那我们不是退化为其他动植物的状态了吗？
+答：不，我们依然回顾过去、憧憬未来、设定目标，我们只是不再寻找或设定终极目的，因为人生的每个节点自有其内在意义或目的。
+
+作者继续引用了柏拉图、歌德、尼采等人的观点来论证「玩耍」的意义和价值，
+并提出第三个观点：人生的意义集中体现在「玩耍」的时刻，而「玩耍」的时刻集中体现在年轻时期。
+
+显然，这个观点同样石破天惊，作者需要解答一些疑问。
+
+问：传统观点认为年轻时期只是为日后的自我实现作准备，是一个训练阶段，而你却说人生的意义是年轻？
+答：年轻时期是「玩耍」的时期，是做以它自身为目的的活动的时期，因此它承载着人生的真正意义。
+
+问：这是否意味着只有年轻人的人生才有意义？中年人或老年人的人生就没有意义了吗？
+答：不是的，这里的「年轻」指的是一种创造、热情和专注的状态，与年龄并无关系。
+
 ### Q8：作者解决了什么问题？
 
 ### Q9：我有哪些疑问？
+
+#### Q9.1: 为什么从目的的角度出发，我们永远找不到人生的终极意义？
+
+首先，从目的出发，会陷入递归的怪圈——如果说人生的目的是X，我们总能继续追问X的目的是什么。
+我们结束递归的方法只能是到达某个阶段就停止追问目的，或者说，X 的目的就是 X 本身，这样就无法继续追问了。
+
+#### Q9.2: 为什么人生的意义体现在那些以它自身为目的的活动中？
 
 ### Q10：这一章说得有道理吗？为什么？
 

@@ -2,6 +2,8 @@
 
 ## Chapter 18: Meaning in Life
 
+作者：Susan Wolf
+
 ### Q1：这一章的内容属于哪一类别？
 
 哲学/伦理学。
