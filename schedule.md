@@ -1,12 +1,8 @@
 # 「人生有何意义」问题研究进度
 
-## 2022-03-27 ~ 2022-03-28
+## 2022-03-21 ~ 2022-04-30
 
-- 读完《The Meaning of Life: A Reader》第15章《Living Without Appeal: An Affirmative Philosophy of Life》
-
-## 2022-03-21 ~ 2022-03-26
-
-- 读完《The Meaning of Life: A Reader》第8章《On the Meaning of Life》，并撰写读书笔记。
+- 读完《The Meaning of Life: A Reader》第1、5、6—19章，并撰写读书笔记和读后感。
 
 ## 2022-03-20
 
