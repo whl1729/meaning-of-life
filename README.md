@@ -66,7 +66,8 @@
 - [《你的第一本哲学书》第10章「人生的意义」分析笔记][4]
 - [维基百科词条「Meaning of Life」分析笔记][5]
 - [《The Meaning of Life: A Reader》分析笔记][6]
-  - [第8章「On The Meaning of Life」分析笔记][7]
+- [《The Meaning of Life: A Reader》读后感][7]
+- [听过很多道理，依然过不好这一生？][8]
 
   [1]: schedule.md
   [2]: analyse_an_introduction_to_ethics_ch13.md
@@ -74,4 +75,5 @@
   [4]: analyse_what_does_it_all_mean_ch10.md
   [5]: wiki/analyse_wiki_meaning_of_life.md
   [6]: the_meaning_of_life_a_reader
-  [7]: the_meaning_of_life_a_reader/08_on_the_meaning_of_life.md
+  [7]: wu/read_the_meaning_of_life_a_reader.md
+  [8]: heard_a_lot_of_truth.md
