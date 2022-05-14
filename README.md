@@ -70,7 +70,7 @@
 - [听过很多道理，依然过不好这一生？][8]
 
   [1]: schedule.md
-  [2]: analyse_an_introduction_to_ethics_ch13.md
+  [2]: intro_to_ethics/13_meaning_of_life.md
   [3]: analyse_the_big_questions_ch02.md
   [4]: analyse_what_does_it_all_mean_ch10.md
   [5]: wiki/analyse_wiki_meaning_of_life.md
